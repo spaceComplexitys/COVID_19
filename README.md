@@ -7,7 +7,7 @@ Covid 19 tracker
 
 **API Feature**
 
-- Programmed by David Kim: David Kim [link](https://www.youtube.com/watch?v=Y0CF-z_WPhU&feature=youtu.be)
+- Programmed by: David Kim [link](https://www.youtube.com/watch?v=Y0CF-z_WPhU&feature=youtu.be)
 
 ### Covid-19 App Final UI
 
